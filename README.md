@@ -1,6 +1,6 @@
 # College App
 
-A web application that provides information about colleges and their course fees. Built with React for the frontend and Spring Boot for the backend.
+A web application that provides information about colleges and their course fees: built with React for the front end and Spring Boot for the back end.
 
 ## Features
 
@@ -13,19 +13,6 @@ A web application that provides information about colleges and their course fees
 
 - **Frontend:** React.js
 - **Backend:** Spring Boot
-- **Database:** MySQL / PostgreSQL
+- **Database:** MySQL / 
 - **Others:** Axios for API calls, Bootstrap for styling
 
-## Installation
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (for the frontend)
-- [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) (for the backend)
-- [MySQL](https://www.mysql.com/) or [PostgreSQL](https://www.postgresql.org/) (for the database)
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/college-app.git
-cd college-app
